@@ -44,7 +44,7 @@
     </nav>
     <div class="container">
         <h1 class="text-secondary  text-capitalize py-2 px-2">
-            user list
+            User List
         </h1>    
     <!--Table-->
     <table class="table table-striped ">
